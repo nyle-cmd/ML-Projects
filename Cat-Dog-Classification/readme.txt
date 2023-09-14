@@ -1,0 +1,1 @@
+I created this project because during my intership I used Jupyter Notebooks and Transformers a lot but couldn't really nail down the core concepts. This project helped me better my understanding of how the models work in real time.
